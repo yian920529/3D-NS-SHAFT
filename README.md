@@ -3,7 +3,7 @@
 姓名：邱翊銨 
 ## 遊戲介紹
 第一人稱小朋友下樓梯
-[DEMO影片連結](https://youtu.be/IBamywP5Kfc)
+[DEMO影片連結](https://youtu.be/Abls6TS3ZNU)
 
 ### 簡介
 本遊戲名為「第一人稱小朋友下樓梯」，以NS-SHAFT 2D版小朋友下樓梯為發想
